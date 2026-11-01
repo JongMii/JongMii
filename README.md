@@ -58,19 +58,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JongMii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongMii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JongMii&theme=github-dark&hide_border=true&background=0d1117" />
-</p>
-
----
-
-<p align="center">
-  방문해 주셔서 감사합니다! 😊
+  방문해 주셔서 감사합니다! 
 </p>
