@@ -57,7 +57,9 @@
 🔗 Repository: 프로젝트 저장소 링크 추가
 
 ---
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
 
 <p align="center">
   방문해 주셔서 감사합니다! 
