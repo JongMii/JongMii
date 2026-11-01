@@ -58,7 +58,7 @@
 
 ---
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/JongMii/JongMii/main/profile-3d-contrib/profile-green-animate.svg?v=2" alt="3D Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
