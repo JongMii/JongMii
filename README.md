@@ -3,12 +3,6 @@
   <img src="./hello-header.svg" width="100%" alt="Hello World! welcome to JongMii's Github!">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-Learning-2EA44F?style=flat-square" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
