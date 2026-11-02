@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="./hello-header.svg" width="100%" alt="Hello World! welcome to JongMii's Github !">
+  <img src="./hello-header.svg" width="100%" alt="Hello World! welcome to JongMii's Github!">
 </p>
 
 <h3 align="center">안녕하세요, 웹개발자 박종민입니다 </h3>
