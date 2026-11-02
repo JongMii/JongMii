@@ -38,24 +38,21 @@
 
 ## 📌 Projects
 
-### 🍔 BRORDER — 배달 주문 웹 프로젝트
+### 🍔 [BRORDER — 배달 주문 웹 프로젝트](https://github.com/Munjunyeong/Brorder)
+
 학교 프로젝트로 진행한 배달 주문 중심의 웹 서비스입니다.
 
 - **주요 기술:** Java, Spring Boot, MyBatis, MariaDB
 - **주요 경험:** 리뷰 작성·조회·수정·삭제 기능 구현
 - **추가 경험:** 데이터베이스 연동, 페이지 간 데이터 전달, Git 브랜치 병합 및 협업
 
-🔗 Repository: 프로젝트 저장소 링크 추가
+### 🌱 [쓰담쓰담 (ss-dam) — React 웹 프로젝트](https://github.com/yeon7513/ss-dam)
 
-### 🌱 쓰담쓰담 (ss-dam) — React 웹 프로젝트
 기존 프로젝트의 화면 구현에 참여하며 React와 SCSS 기반 구조를 익혔습니다.
 
 - **주요 기술:** React, JavaScript, SCSS
 - **주요 경험:** 마이페이지 사이드바 등 화면 구조 및 스타일 작업
 - **배운 점:** 컴포넌트 구조, 기존 스타일 재사용, 프론트엔드와 백엔드의 연결 구조 이해
-
-🔗 Repository: 프로젝트 저장소 링크 추가
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/JongMii/JongMii/main/profile-3d-contrib/profile-green-animate.svg?v=2" alt="3D Contribution Graph" width="100%" />
