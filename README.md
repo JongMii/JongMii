@@ -3,11 +3,6 @@
   <img src="./hello-header.svg" width="100%" alt="Hello World! welcome to JongMii's Github!">
 </p>
 
-<h3 align="center">안녕하세요, 웹개발자 박종민입니다 </h3>
-<p align="center">
-  웹 개발을 공부하며 직접 기능을 구현하고, 프로젝트를 통해 성장하고 있습니다.
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently-Learning-2EA44F?style=flat-square" />
