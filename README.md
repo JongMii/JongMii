@@ -36,7 +36,7 @@
 
 ### 🌱 [쓰담쓰담 (ss-dam) — React 웹 프로젝트](https://github.com/yeon7513/ss-dam)
 
-기존 프로젝트의 화면 구현에 참여하며 React와 SCSS 기반 구조를 익혔습니다.
+타 팀의 기존 프로젝트의 화면 구현에 참여하며 React와 SCSS 기반 구조를 익혔습니다.
 
 - **주요 기술:** React, JavaScript, SCSS
 - **주요 경험:** 마이페이지 사이드바 등 화면 구조 및 스타일 작업
