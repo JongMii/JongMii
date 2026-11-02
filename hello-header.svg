@@ -21,6 +21,6 @@
   <!-- 글씨 -->
   <g fill="#8785a2" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans KR', Arial, sans-serif">
     <text x="400" y="148" font-size="46" font-weight="700">Hello World!</text>
-    <text x="400" y="190" font-size="20" font-weight="500">welcome to JongMii's Github !</text>
+    <text x="400" y="190" font-size="20" font-weight="500">welcome to JongMii's Github!</text>
   </g>
 </svg>
