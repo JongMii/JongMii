@@ -53,7 +53,7 @@
 - **주요 기능:** 음악 재생 및 관리, 픽셀 공간 구성, 집과 정원 꾸미기, 오브젝트 상호작용
 - **개발 방향:** 음악 플랫폼과 인터랙티브한 픽셀 월드를 결합한 사용자 경험 구현
 - **설계 목표:** 게임 엔진과 웹 서비스 기능을 분리하여 다양한 웹 서비스에 적용할 수 있는 재사용 가능한 구조 설계
-- 
+  
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/JongMii/JongMii/main/profile-3d-contrib/profile-green-animate.svg?v=2" alt="3D Contribution Graph" width="100%" />
