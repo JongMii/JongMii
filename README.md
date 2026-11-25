@@ -25,6 +25,14 @@
 
 ---
 
+
+## 🛠️ Tech Stack
+
+| Languages | Frontend | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="32"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="32"/> | <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="32"/> <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32"/> <img src="https://mybatis.org/images/mybatis-logo.png" width="65"/> | <img src="https://cdn.simpleicons.org/mariadb/003545" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="32"/> <img src="https://img.shields.io/badge/eXERD-4479A1?style=flat&labelColor=4479A1" height="25"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32"/> <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="32"/> |
+
+
 ## 📌 Projects
 
 ### 🍔 [BRORDER — 배달 주문 웹 프로젝트](https://github.com/Munjunyeong/Brorder)
