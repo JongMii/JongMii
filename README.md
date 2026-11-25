@@ -13,6 +13,17 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JongMii&custom_title=JongMii%27s%20GitHub%20Stats&show_icons=true&title_color=c792ea&text_color=a9b1d6&icon_color=79dafa&bg_color=282c3c&border_color=e0e0e0&ring_color=c792ea"
+    alt="JongMii's GitHub Stats"
+  />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -29,6 +40,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="32"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="32"/> | <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="32"/> <img src="https://cdn.simpleicons.org/spring/6DB33F" width="32"/> <img src="https://mybatis.org/images/mybatis-logo.png" width="65"/> | <img src="https://cdn.simpleicons.org/mariadb/003545" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="32"/> <img src="https://img.shields.io/badge/eXERD-4479A1?style=flat&labelColor=4479A1" height="25"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32"/> <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="32"/> |
 
+---
 
 ## 📌 Projects
 
